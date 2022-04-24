@@ -1,4 +1,4 @@
-package com.simon.lambda;
+package com.simon.pojo;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
