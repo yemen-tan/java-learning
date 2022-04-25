@@ -12,7 +12,7 @@ public class SmallPineapple {
 
     public Integer age;
 
-    private double weight;
+    private Double weight;
 
     public SmallPineapple(String name, Integer age) {
         this.name = name;
